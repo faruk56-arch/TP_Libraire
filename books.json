@@ -1,0 +1,30 @@
+[
+    {
+        "id": 2,
+        "title": "Livre 2",
+        "author": "Auteur 2",
+        "price": 20,
+        "description": "Description 2"
+    },
+    {
+        "id": 3,
+        "title": "Histoire de la lion",
+        "author": "Mickel Henry",
+        "price": 15,
+        "description": "Test"
+    },
+    {
+        "id": 4,
+        "title": "Himself",
+        "author": "by Jess Kidd",
+        "price": 15,
+        "description": "The award-winning author of Himself, Jess Kidd is a spectacular writer with one foot in the mythical and the other planted firmly in reality. Kidd creates remarkable characters and real-life settings, and then makes them magical. Her upcoming novel"
+    },
+    {
+        "id": 1,
+        "title": "Gorgeous Lies",
+        "author": "by Martha McPhee",
+        "price": 15,
+        "description": " New York Times bestselling author Martha McPhee’s poetic prose and incredibly aware domestic fiction always delivers. McPhee’s work is expertly crafted and incredibly enticing. Her most notable novel, Gorgeous Lies, is a colorful, quirky story of a dying therapist who tries to make sense of his life and his relationships with his family as his conditions worsen."
+    }
+]
